@@ -1,0 +1,25 @@
+{
+  "name": "week11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HJoRo/week11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HJoRo/week11/issues"
+  },
+  "homepage": "https://github.com/HJoRo/week11#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "json": "^10.0.0",
+    "node": "^14.10.1"
+  }
+}
